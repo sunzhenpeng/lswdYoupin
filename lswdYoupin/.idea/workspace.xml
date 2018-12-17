@@ -7,1197 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="c507eaa3-3a1f-4a61-9fc6-cb5d90331914" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Drivers/rfidlib_ANRD242.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/minghua/mwrf32.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/fonts/DroidSans-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/fonts/DroidSans.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/images/collapse.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/images/expand.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/images/explorer_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/images/favicon-16x16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/images/favicon-32x32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/images/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/images/logo_small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/images/pet_store_api.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/images/throbber.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/images/wordnik_api.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/lswd_web_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/lswd_web_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alipay_sdk_java_20170615110434.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alipay_sdk_java_source_20170615110434.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_java_aliyun_core_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_java_aliyun_dysmsapi_1_0_0_SNAPSHOT.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_kevinsawicki_http_request_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_wxpay_wxpay_sdk_0_0_3_0_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_core_3_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mashape_unirest_unirest_java_1_4_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_microsoft_sqlserver_mssql_jdbc_6_2_0_jre8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_coobird_thumbnailator_0_4_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_2_10_2_2_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_core_2_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_3_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_3_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_3_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_ehcache_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_classworlds_2_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_component_annotations_1_5_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_3_0_22.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_sisu_org_eclipse_sisu_inject_0_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_sisu_org_eclipse_sisu_plexus_0_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jdom_jdom_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20160212.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_0_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_maven_plugin_1_3_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_jobs_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_0_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_3_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/lswd-commons.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/date/DateUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/date/Dates.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/exception/HttpException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/exception/HttpsException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/exception/JsonException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/exception/SecurityException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/exception/XmlException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/http/Http.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/http/HttpMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/http/Https.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/json/Jsons.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/model/Page.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/security/Base64.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/security/MD5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/security/RSA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/util/Fields.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/util/JavaTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/util/Networks.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/util/Preconditions.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/util/PropertiesUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/util/Strings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/util/Verifycode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/xml/XmlReaders.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-commons/src/main/java/com/lswd/youpin/common/xml/XmlWriters.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/lswd-dao.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/AreaMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/AssociatorAccountMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/AssociatorCanteenMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/AssociatorCardMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/AssociatorMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/AssociatorPayBillMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/AssociatorRefundBillMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/AssociatorTypeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/ButtonMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/CanteenLocationMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/CanteenMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/CanteenMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/CityMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/CounterUserMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/DevNoInfoMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/LeaveInfoMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/PersonInfoMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/ProvinceMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/RechargeLogMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/RecordInfoMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/RegionMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/RoleMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/ShowImagesMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/TenantAssociatorMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/TenantCodeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/TenantMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/UserLogMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/UserMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/AnnouncementMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/AnnouncementMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/AppResourceMachineMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/AppResourceMachineMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/AppResourceMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/AppResourceMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/BannerMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/BannerMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/EmployeesMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/ImgMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/ImgMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/MachineMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/MachineMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/PageImgMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/PageImgMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/PageMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/PageMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/PdfMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/PdfMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/PositionMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/ResTypeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/ResTypeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/UploadLogMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/VideoMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsy/VideoMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsygen/AnnouncementMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsygen/AppResourceMachineMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsygen/AppResourceMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsygen/BannerMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsygen/EmployeesMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsygen/ImgMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsygen/MachineMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsygen/PageImgMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsygen/PageMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsygen/PdfMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsygen/PositionMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsygen/ResTypeMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsygen/UploadLogMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsygen/VideoMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/AddressMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/CanteenRecipeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/CanteenSupplierMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/CarMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/CartItemsMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/CartMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/CounterMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/CounterMenuLinkedMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/CounterMenuMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/CounterOrderItemsMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/CounterOrderMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/CounterTypeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/CounterTypeRecipeCategoryMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/CounterUserLinkedMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/DepartmentMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/DiskLabelMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/DiskRecipeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/DiskTypeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/EmployeeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/EvaluateMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/GoodAdditiveattributeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/GoodAttributeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/GoodCategoryMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/GoodCommentMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/GoodDetailsImgMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/GoodMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/GoodOrderItemsMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/GoodOrderMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/GoodPlanItemsMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/GoodPlanMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/GoodRecordMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/GoodSaleMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/IngredientMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/InstitutionMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/JSPlatformMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/LabelMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/MaterialMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/MealMenuMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/MealRecordMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/MemberCardMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/MemberPayBillMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/MemberRefundBillMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/MemberTypeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/MembersMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/MenuTypeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/NutritionMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/RateMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/RecipeAttributeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/RecipeCategoryMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/RecipeCommentMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/RecipeDetailsImgMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/RecipeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/RecipeMaterialMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/RecipeOrderItemsMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/RecipeOrderMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/RecipeOtherMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/RecipePlanItemsMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/RecipePlanMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/RecipeSecKillMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/ResourceMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/RoleResourceMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/SupplierMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/UnifiedOrderMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsyp/UserRoleMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/AddressMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/CanteenRecipeMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/CanteenSupplierMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/CartItemsMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/CartMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/CounterMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/CounterMenuLinkedMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/CounterMenuMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/CounterOrderItemsMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/CounterOrderMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/CounterTypeMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/CounterTypeRecipeCategoryMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/CounterUserLinkedMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/DepartmentMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/DiskLabelMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/DiskRecipeMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/DiskTypeMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/EmployeeMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/GoodAdditiveattributeMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/GoodAttributeMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/GoodCategoryMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/GoodCommentMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/GoodDetailsImgMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/GoodMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/GoodOrderItemsMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/GoodOrderMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/GoodPlanItemsMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/GoodPlanMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/GoodRecordMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/GoodSaleMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/IngredientMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/InstitutionMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/JSPlatformMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/LabelMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/MealMenuMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/MealRecordMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/MemberCardMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/MemberPayBillMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/MemberRefundBillMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/MemberTypeMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/MembersMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/MenuTypeMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/NutritionMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/RateMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/RecipeAttributeMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/RecipeCategoryMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/RecipeCommentMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/RecipeDetailsImgMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/RecipeMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/RecipeMaterialMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/RecipeOrderItemsMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/RecipeOtherMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/RecipePlanItemsMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/RecipePlanMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/RecipeSecKillMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/ResourceMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/RoleResourceMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/SupplierMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/UnifiedOrderMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/lsypgen/UserRoleMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/dao/wxTokenMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/AreaMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/AssociatorAccountMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/AssociatorCanteenMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/AssociatorCardMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/AssociatorMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/AssociatorPayBillMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/AssociatorRefundBillMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/AssociatorTypeMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/ButtonMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/CanteenLocationMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/CanteenMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/CityMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/CounterUserMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/ProvinceMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/RechargeLogMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/RegionMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/RoleMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/ShowImagesMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/TenantAssociatorMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/TenantCodeMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/TenantMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/UserLogMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/UserMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/daogen/wxTokenMapperGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/plugin/ChangeMapperNamePlugin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/java/com/lswd/youpin/plugin/MysqlPagingPlugin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/AreaMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/AssociatorAccountMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/AssociatorCanteenMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/AssociatorCardMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/AssociatorMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/AssociatorPayBillMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/AssociatorRefundBillMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/AssociatorTypeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/ButtonMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/CanteenLocationMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/CanteenMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/CityMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/CounterUserMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/DevNoInfoMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/LeaveInfoMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/PersonInfoMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/ProvinceMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/RechargeLogMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/RecordInfoMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/RegionMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/RoleMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/ShowImagesMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/TenantAssociatorMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/TenantCodeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/TenantMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/UserLogMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/UserMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsy/AnnouncementMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsy/AppResourceMachineMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsy/AppResourceMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsy/BannerMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsy/EmployeesMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsy/ImgMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsy/MachineMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsy/PageImgMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsy/PageMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsy/PdfMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsy/PositionMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsy/ResTypeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsy/UploadLogMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsy/VideoMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/AddressMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/CanteenRecipeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/CanteenSupplierMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/CarMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/CartItemsMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/CartMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/CounterMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/CounterMenuLinkedMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/CounterMenuMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/CounterOrderItemsMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/CounterOrderMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/CounterTypeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/CounterTypeRecipeCategoryMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/CounterUserLinkedMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/DepartmentMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/DiskLabelMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/DiskRecipeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/DiskTypeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/EmployeeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/EvaluateMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/GoodAdditiveattributeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/GoodAttributeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/GoodCategoryMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/GoodCommentMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/GoodDetailsImgMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/GoodMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/GoodOrderItemsMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/GoodOrderMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/GoodPlanItemsMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/GoodPlanMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/GoodRecordMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/GoodSaleMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/IngredientMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/InstitutionMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/JSPlatformMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/LabelMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/MaterialMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/MealMenuMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/MealRecordMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/MemberCardMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/MemberPayBillMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/MemberRefundBillMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/MemberTypeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/MembersMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/MenuTypeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/NutritionMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/RateMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/RecipeAttributeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/RecipeCategoryMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/RecipeCommentMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/RecipeDetailsImgMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/RecipeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/RecipeMaterialMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/RecipeOrderItemsMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/RecipeOrderMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/RecipeOtherMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/RecipePlanItemsMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/RecipePlanMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/RecipeSecKillMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/ResourceMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/RoleResourceMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/SupplierMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/UnifiedOrderMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/lsyp/UserRoleMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/com/lswd/youpin/dao/wxTokenMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/daoftl/dao.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/db/ctsapp_2016-10-02.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-dao/src/main/resources/generatorConfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/lswd-model.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/Area.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/Associator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/AssociatorAccount.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/AssociatorAddress.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/AssociatorCanteen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/AssociatorCard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/AssociatorPayBill.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/AssociatorRefundBill.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/AssociatorShare.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/AssociatorType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/Button.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/Canteen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/CanteenLocation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/City.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/CounterUser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/DevNoInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/LeaveInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/PersonInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/Province.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/RechargeLog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/RecordInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/Region.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/Role.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/SNSUserInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/ShowImages.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/Tenant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/TenantAssociator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/TenantCode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/Token.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/UserLog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/WeixinOauth2Token.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsy/Announcement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsy/AppResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsy/AppResourceMachine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsy/Banner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsy/Employees.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsy/Img.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsy/ImgType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsy/Machine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsy/Page.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsy/PageImg.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsy/Pdf.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsy/Position.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsy/ResType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsy/UploadLog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsy/Video.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/Address.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/CanteenRecipe.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/CanteenSupplier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/Cart.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/CartItems.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/Counter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/CounterMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/CounterMenuLinked.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/CounterOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/CounterOrderItems.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/CounterType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/CounterTypeRecipeCategory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/CounterUserLinked.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/Department.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/DiskLabel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/DiskRecipe.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/DiskType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/Evaluate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/EvaluateAdd.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/EvaluateImg.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/Good.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/GoodAdditiveattribute.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/GoodAttribute.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/GoodCategory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/GoodComment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/GoodDetailsImg.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/GoodOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/GoodOrderItems.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/GoodPlan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/GoodPlanItems.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/GoodRecord.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/GoodSale.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/GoodStatisticsOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/Ingredient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/Institution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/JSPlatform.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/Label.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/Machine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/Material.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/MaterialCategory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/MealMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/MealRecord.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/MemberCard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/MemberPayBill.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/MemberRefundBill.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/MemberType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/Members.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/MenuType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/Nutrition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/Orders.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/Rate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/Recipe.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/RecipeAttribute.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/RecipeCategory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/RecipeComment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/RecipeDetailsImg.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/RecipeMaterial.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/RecipeOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/RecipeOrderItems.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/RecipeOther.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/RecipePlan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/RecipePlanItems.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/RecipeSecKill.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/RecipeStatisricsOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/Resources.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/RoleResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/Statistics.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/Supplier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/UnifiedOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/Unit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/lsyp/UserRole.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/vo/CanteenHome.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/vo/CanteenImageVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/vo/CanteenVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/vo/LabelVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/vo/MealRecordVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/vo/MealStatisticVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/vo/Nodes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/vo/NutritionVo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/vo/OrderVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/vo/PersonInfoCount.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/vo/SupplierVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/vo/TotalCountMoney.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/main/java/com/lswd/youpin/model/wxToken.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-model/src/test/java/com/lswd/youpin/AppTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/lswd-service.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/RFID/RFID_EVENT_CALLBACK_NEW.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/RFID/RfidFunction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/RFID/RfidUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/RFID/rfid_def.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/RFID/rfidlib_AIP_ISO15693.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/RFID/rfidlib_reader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/AddressThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/AliPayThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/AssociatorPayBillThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/AssociatorRefundBillThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/AssociatorThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/AssociatorTypeThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/CanteenThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/CarThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/CardPayThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/CounterOrderThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/CounterThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/CounterUserThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/EmployeeThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/GoodCategoryThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/GoodOrderThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/GoodPlanThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/AddressThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/AliPayThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/AssociatorPayBillThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/AssociatorRefundBillThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/AssociatorThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/AssociatorTypeThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/CanteenThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/CarThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/CardPayThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/CounterOrderThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/CounterThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/CounterUserThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/EmployeeThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/GoodCategoryThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/GoodOrderThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/GoodPlanThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/ImportOrExportThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/InstitutionThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/MaterialThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/OrderThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/RecipeCategoryThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/RecipeOrderThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/RecipePlanThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/StatisticsThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/TenantThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/UserThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/WeiXinThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/Impl/WxThinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/ImportOrExportThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/InstitutionThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/MaterialThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/OrderThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/RecipeCategoryThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/RecipeOrderThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/RecipePlanThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/StatisticsThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/TenantThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/UserThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/WeiXinThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/Thin/WxThin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/alipay/aliPayApi/AliPayApi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/alipay/config/AliPayConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/alipay/util/AliPayClientUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/alipay/util/AlipayCore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/alipay/util/AlipayNotify.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/alipay/util/AlipaySubmit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/alipay/util/HttpProtocolHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/alipay/util/HttpRequest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/alipay/util/HttpResponse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/alipay/util/HttpResultType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/alipay/util/MD5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/commons/CodeMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/commons/ConstantsCode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/commons/LoginType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/commons/LsAppException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/commons/OrderType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/commons/RecipeType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/commons/RestUrls.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/commons/SmsMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/loader/DefaultAccessTokenLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/loader/DefaultTicketLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/AppResourceMachineService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/AppResourceService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/BannerService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/EmployeesService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/ImgService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/LsyCanteenQualityService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/LsyKitchenService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/LsyNutritionService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/LsyOperationService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/LsyQualityControlService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/LsyService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/LsySupplyManageService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/MachineService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/PageImgService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/PageService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/PdfService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/PositionService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/ResTypeService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/VideoService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/impl/AppResourceMachineServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/impl/AppResourceServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/impl/BannerServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/impl/EmployeesServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/impl/ImgServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/impl/LsyCanteenQualityServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/impl/LsyKitchenServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/impl/LsyNutritionServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/impl/LsyOperationServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/impl/LsyQualityControlServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/impl/LsyServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/impl/LsySupplyManageServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/impl/MachineServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/impl/PageImgServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/impl/PageServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/impl/PdfServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/impl/PositionServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/impl/ResTypeServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/lsy/impl/VideoServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/minghua/Declare.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/minghua/MWUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/poiutils/ExcelUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/poiutils/ExportUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/processor/AbstractProcessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/processor/WxProcessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/quartz/DiskRecipeQuartz.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/quartz/OrderQuartz.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/quartz/PersonInfoQuartz.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/request/LocationRequest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/request/Request.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/response/LsResponse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/response/LsyResponse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/response/Response.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/AddressService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/AliPayService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/AssociatorAccountService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/AssociatorPayBillService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/AssociatorRefundBillService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/AssociatorService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/AssociatorTypeService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/CanteenService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/CarService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/CardPayService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/CounterMenuService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/CounterMenuTypeService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/CounterOrderService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/CounterService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/CounterTypeService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/CounterUserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/DepartmentService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/DiskTypeService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/EmployeeService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/EvaluateService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/GoodCategoryService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/GoodOrderService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/GoodPlanService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/GoodService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/ImportOrExportService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/InstitutionService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/JSPlatformService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/LeaveInfoService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/MaterialService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/MealRecordService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/MemberPayBillService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/MemberRefundBillService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/MemberTypeService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/MembersService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/NutritionService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/OrderService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/PersonInfoService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/RateService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/RechargeService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/RecipeCategoryService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/RecipeOrderService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/RecipePlanService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/RecipeSecKillService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/RecipeService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/RecordInfoService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/RegionService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/ResourceService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/RfidService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/RoleService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/SmsService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/StatisticsService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/SupplierService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/TenantService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/UnifiedOrderService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/UnitService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/WeiXinService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/WxService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/AddressServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/AliPayServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/AssociatorAccountServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/AssociatorPayBillServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/AssociatorRefundBillServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/AssociatorServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/AssociatorTypeServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/CanteenServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/CarServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/CardPayServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/CounterMenuServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/CounterMenuTypeServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/CounterOrderServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/CounterServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/CounterTypeServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/CounterUserServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/DepartmentServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/DiskTypeServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/EmployeeServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/EvaluateServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/GoodCategoryServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/GoodOrderServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/GoodPlanServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/GoodServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/ImportOrExportServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/InstitutionServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/JSPlatformServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/LeaveInfoServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/MaterialServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/MealRecordServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/MemberPayBillServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/MemberRefundBillServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/MemberTypeServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/MembersServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/NutritionServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/OrderServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/PersonInfoServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/RateServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/RechargeServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/RecipeCategoryServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/RecipeOrderServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/RecipePlanServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/RecipeSecKillServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/RecipeServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/RecordInfoServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/RegionServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/ResourceServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/RfidServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/RoleServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/SmsServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/StatisticsServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/SupplierServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/TenantServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/UnifiedOrderServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/UnitServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/UserServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/WeiXinServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/service/impl/WxServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/shiro/A.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/shiro/filter/RequestFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/shiro/filter/ResourceFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/shiro/filter/SessionExpireFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/shiro/jedis/JedisPoolManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/shiro/jedis/RedisCache.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/shiro/jedis/RedisCacheManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/shiro/jedis/RedisManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/shiro/jedis/RedisSessionDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/shiro/kit/ShiroKit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/shiro/permission/RetryLimitCredentialsMatcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/shiro/permission/UrlPermission.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/shiro/permission/UrlPermissionResolver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/shiro/realm/UserDbRealm.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/shiro/token/CustomizedModularRealmAuthenticator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/shiro/token/CustomizedToken.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/shiro/token/TokenProcessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/CountPrientBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/DataSourceConst.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/DataSourceHandle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/DataSourceSwitch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/DateValidity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/DateWeekRecipePlan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/DynamicSource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/LocationUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/MACUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/MD5Utils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/OutUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/PoiExcelExport.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/PoiExcelExportAndImport.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/PoiExcelImport.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/PrientBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/PrientUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/RandomUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/RedisUtilService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/RequestHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/ResponseDate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/SHA1Utils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/SerializeUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/SmsUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/StringsUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/TemporaryGood.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/TemporaryGoodOrderPay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/TemporaryOrders.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/TemporaryRecipePlan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/TreeUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/utils/Values.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/wxpay/WxApi/WxPayApi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/wxpay/config/WXPayConfigImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/wxpay/config/WXPayDomainSimpleImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/wxpay/config/WxConfigInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/wxpay/util/CommonUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/wxpay/util/IpUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/wxpay/util/MyX509TrustManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/main/java/com/lswd/youpin/wxpay/util/core/GenerateQrCodeUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/test/java/com/lswd/youpin/service/test/GuavaTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/test/java/com/lswd/youpin/service/test/JsonTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/test/resources/config-dev.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/test/resources/config/SqlMapConfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/test/resources/log4j.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/test/resources/spring/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-service/src/test/resources/spring/spring-datasource.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/lswd-web.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/aop/AOPHttpStatusCode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/config/CtsappSwaggerConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/AddressController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/AliPayController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/AppResourceController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/AppResourceMachineController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/AssociatorController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/AssociatorPayBillController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/AssociatorRefundBillController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/AssociatorTypeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/BannerController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/CanteenController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/CanteenLocationController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/CarController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/CardPayController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/CounterController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/CounterMenuController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/CounterMenuTypeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/CounterOrderController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/CounterTypeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/CounterUserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/DepartmentController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/DiskTypeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/EmployeeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/EmployeesController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/EvaluateController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/ExceptionController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/GoodCategoryController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/GoodController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/GoodOrderController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/GoodPlanController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/IPController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/ImgController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/ImportOrExportController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/InstitutionController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/JSPlatformController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/LeaveInfoController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/MachineController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/MaterialController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/MealRecordController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/MemberPayBillController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/MemberRefundBillController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/MemberTypeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/MembersController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/NutritionController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/OrderController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/PageController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/PageImgController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/PdfController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/PersonInfoController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/PositionController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/RechargeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/RecipeCategoryController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/RecipeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/RecipeOrderController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/RecipePlanController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/RecipeSecKillController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/RecordInfoController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/RegionController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/ResTypeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/ResourceController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/RfidController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/RoleController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/SmsController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/StatisticsController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/SupplierController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/TenantController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/TokenController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/UnitController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/UpLoadController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/UserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/VideoController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/WeiXinController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/WxController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/controller/lsyController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/upload/CustomMultipartResolver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/upload/MyProgressListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/upload/ProgressEntity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/utils/CookieUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/utils/DESUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/utils/EncryptPropertyPlaceholderConfigurer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/utils/GetImag.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/utils/ParamHandle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/utils/SHA1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/java/com/lswd/youpin/web/utils/XmlUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/resources/config-dev.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/resources/config-pro.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/resources/config-test.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/resources/config/SqlMapConfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/resources/config/spring-shiro-2017.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/resources/config/spring-shiro.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/resources/ehcache.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/resources/ftp.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/resources/log4j.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/resources/spring/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/resources/spring/spring-datasource.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/resources/spring/spring-mvc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/resources/spring/spring-quartz.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/resources/spring/spring-shiro.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/css/print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/css/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/css/typography.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lang/ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lang/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lang/es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lang/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lang/geo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lang/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lang/ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lang/ko-kr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lang/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lang/pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lang/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lang/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lang/translator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lang/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lib/backbone-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lib/es5-shim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lib/handlebars-4.0.5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lib/highlight.9.1.0.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lib/highlight.9.1.0.pack_extended.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lib/jquery-1.8.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lib/jquery.ba-bbq.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lib/jquery.slideto.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lib/jquery.wiggle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lib/js-yaml.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lib/jsoneditor.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lib/lodash.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lib/marked.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lib/object-assign-pollyfill.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lib/sanitize-html.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/lib/swagger-oauth.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/o2c.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/swagger-ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/main/webapp/apidoc/swagger-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-web/src/test/java/JWT.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/lswd-weixin.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/core/AsyncFunction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/core/Bases.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/core/Callback.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/core/Component.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/core/CustomerServices.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/core/Datas.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/core/JsSdks.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/core/Materials.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/core/MenuBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/core/Menus.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/core/Messages.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/core/QrCodes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/core/Users.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/core/Wechat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/core/WechatBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/exception/EventException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/exception/WechatException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/exception/XmlException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/loader/AccessTokenLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/loader/DefaultAccessTokenLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/loader/DefaultTicketLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/loader/TicketLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/base/AccessToken.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/base/AuthType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/customer/CsSession.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/customer/MsgRecord.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/customer/UserSession.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/customer/WaitingSession.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/data/article/ArticleDailySummary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/data/article/ArticleShare.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/data/article/ArticleShareHour.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/data/article/ArticleShareScene.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/data/article/ArticleSource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/data/article/ArticleSummary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/data/article/ArticleSummaryHour.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/data/article/ArticleTotal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/data/article/ArticleTotalDetail.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/data/article/CommonSummary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/data/interfaces/InterfaceSummary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/data/interfaces/InterfaceSummaryHour.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/data/msg/MsgSendDist.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/data/msg/MsgSendSummary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/data/msg/MsgSendSummaryHour.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/data/msg/MsgType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/data/user/UserCumulate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/data/user/UserSource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/data/user/UserSummary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/js/Config.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/js/Ticket.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/js/TicketType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/material/CommonMaterial.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/material/Material.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/material/MaterialCount.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/material/MaterialType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/material/MaterialUploadType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/material/NewsContent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/material/NewsContentItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/material/NewsMaterial.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/material/PermMaterial.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/material/TempMaterial.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/menu/Menu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/menu/MenuType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/receive/RecvMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/receive/RecvMessageType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/receive/event/RecvEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/receive/event/RecvEventType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/receive/event/RecvLocationEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/receive/event/RecvMenuEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/receive/event/RecvScanEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/receive/event/RecvSubscribeEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/receive/event/RecvUnSubscribeEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/receive/msg/RecvImageMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/receive/msg/RecvLinkMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/receive/msg/RecvLocationMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/receive/msg/RecvMsg.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/receive/msg/RecvShortVideoMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/receive/msg/RecvTextMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/receive/msg/RecvVideoMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/receive/msg/RecvVoiceMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/resp/Article.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/resp/RespMessageType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/send/SendMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/send/SendMessageScope.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/send/SendMessageType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/send/SendPreviewMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/message/send/TemplateField.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/qrcode/Qrcode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/qrcode/QrcodeType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/user/Group.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/user/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/model/user/UserList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/serializer/ArticleShareSceneDeserializer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/serializer/ArticleSourceDeserializer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/serializer/DateDeserializer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/serializer/MsgTypeDeserializer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/serializer/UserSourceDeserializer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/utils/CheckUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/utils/Sha1Utils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswd-weixin/src/main/java/com/lswd/youpin/weixin/utils/XmlWriters.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lswdYoupin.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/lswd-service/target/" />
@@ -1335,8 +145,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lswd-service/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-210">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="210">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -1482,7 +292,34 @@
     </navigator>
     <panes>
       <pane id="PackagesPane">
-        <subPane />
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lswdYoupin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lswd-weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lswdYoupin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lswd-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lswdYoupin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
       </pane>
       <pane id="ProjectPane">
         <subPane>
@@ -1502,6 +339,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lswdYoupin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lswdYoupin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lswd-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lswdYoupin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lswdYoupin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lswd-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -1511,7 +380,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
@@ -2214,7 +1083,7 @@
       <workItem from="1544771152230" duration="2498000" />
       <workItem from="1545014336665" duration="789000" />
       <workItem from="1545026866370" duration="1397000" />
-      <workItem from="1545028619267" duration="4512000" />
+      <workItem from="1545028619267" duration="5175000" />
     </task>
     <task id="LOCAL-00001">
       <created>1541464674199</created>
@@ -2227,11 +1096,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31968000" />
+    <option name="totallyTimeSpent" value="32631000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32664436" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2248,7 +1117,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23216309" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19346195" sideWeight="0.47934783" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19346195" sideWeight="0.47934783" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19722815" sideWeight="0.5206522" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25375536" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32700893" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -2709,8 +1578,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lswd-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-210">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
           <folding />
         </state>
       </provider>
