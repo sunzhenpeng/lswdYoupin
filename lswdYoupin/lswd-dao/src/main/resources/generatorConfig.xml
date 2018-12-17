@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE generatorConfiguration PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN" "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" >
+<generatorConfiguration>
+
+	<!--<properties resource="config-dev.properties" />-->
+	<context id="cloud">
+
+		<plugin type="com.lswd.youpin.plugin.ChangeMapperNamePlugin"/>
+
+		<commentGenerator>
+			<property name="suppressAllComments" value="false" />
+			<property name="suppressDate" value="true" />
+		</commentGenerator>
+
+		<!--<jdbcConnection driverClass="${jdbc.driver}" connectionURL="${jdbc.url}"-->
+		<!--userId="${jdbc.username}" password="${jdbc.password}" />-->
+
+	<!--	<jdbcConnection driverClass="com.mysql.jdbc.Driver"
+						connectionURL="jdbc:mysql://127.0.0.1:3306/lswd?useUnicode=true&amp;characterEncoding=UTF-8"
+						userId="root" password="123456" />-->
+
+			<jdbcConnection driverClass="com.mysql.jdbc.Driver"
+                            connectionURL="jdbc:mysql://114.215.108.23:3306/lswd?useUnicode=true&amp;characterEncoding=UTF-8"
+                            userId="root" password="Goat1212qd" />
+
+		<javaTypeResolver>
+			<property name="forceBigDecimals" value="false" />
+		</javaTypeResolver>
+
+		<!--生成的model 包路径 -->
+		<javaModelGenerator targetPackage="com.lswd.youpin.model.lsy" targetProject="../lswd-model/src/main/java">
+			<property name="enableSubPackages" value="true" />
+			<property name="trimStrings" value="true" />
+		</javaModelGenerator>
+
+		<!--生成xml mapper文件 路径 -->
+		<sqlMapGenerator targetPackage="com.lswd.youpin.dao.lsy" targetProject="src/main/resources">
+			<property name="enableSubPackages" value="true" />
+		</sqlMapGenerator>
+
+		<!-- 生成的Dao接口 的包路径 -->
+		<javaClientGenerator targetPackage="com.lswd.youpin.dao.lsy" targetProject="src/main/java" type="XMLMAPPER" >
+			<property name="enableSubPackages" value="true" />
+		</javaClientGenerator>
+
+		<table schema="lswdYoupin" tableName="y_upload_log" domainObjectName="UploadLog" enableCountByExample="false" enableUpdateByExample="false"
+			   enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+		</table>
+<!--
+		<table schema="lswdYoupin" tableName="y_position" domainObjectName="Position" enableCountByExample="false" enableUpdateByExample="false"
+					   enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+	    </table>
+-->
+
+		<!--<table schema="lswdYoupin" tableName="y_res_type" domainObjectName="ResType" enableCountByExample="false" enableUpdateByExample="false"
+			   enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+		</table>-->
+	<!--	<table schema="lswdYoupin" tableName="y_res_type" domainObjectName="ResType" enableCountByExample="false" enableUpdateByExample="false"
+			   enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+		</table>-->
+		<!--<table schema="lswdYoupin" tableName="y_page" domainObjectName="Page" enableCountByExample="false" enableUpdateByExample="false"
+			   enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+		</table>
+		<table schema="lswdYoupin" tableName="y_page_img" domainObjectName="PageImg" enableCountByExample="false" enableUpdateByExample="false"
+			   enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+		</table>
+		<table schema="lswdYoupin" tableName="y_banner" domainObjectName="Banner" enableCountByExample="false" enableUpdateByExample="false"
+			   enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+		</table>-->
+	<!--	<table schema="lswdYoupin" tableName="y_video" domainObjectName="Video" enableCountByExample="false" enableUpdateByExample="false"
+			   enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+		</table>
+		<table schema="lswdYoupin" tableName="y_video" domainObjectName="Video" enableCountByExample="false" enableUpdateByExample="false"
+			   enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+		</table>
+		<table schema="lswdYoupin" tableName="y_video" domainObjectName="Video" enableCountByExample="false" enableUpdateByExample="false"
+			   enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+		</table>&ndash;&gt;-->
+
+
+
+		<!--	<table schema="lswdYoupin" tableName="t_address" domainObjectName="Address" enableCountByExample="
+        false" enableUpdateByExample="false"
+                       enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+                </table>
+                <table schema="lswdYoupin" tableName="t_canteen" domainObjectName="Canteen" enableCountByExample="false" enableUpdateByExample="false"
+                       enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+                </table>
+                <table schema="lswdYoupin" tableName="t_canteen_supplier" domainObjectName="CanteenSupplier" enableCountByExample="false" enableUpdateByExample="false"
+                       enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+                </table>
+                <table schema="lswdYoupin" tableName="t_department" domainObjectName="Department" enableCountByExample="false" enableUpdateByExample="false"
+                       enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+                </table>
+                <table schema="lswdYoupin" tableName="t_employee" domainObjectName="Employee" enableCountByExample="false" enableUpdateByExample="false"
+                       enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+                </table>
+                <table schema="lswdYoupin" tableName="t_good_additiveattribute" domainObjectName="GoodAdditiveattribute" enableCountByExample="false" enableUpdateByExample="false"
+                       enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+                </table>
+                <table schema="lswdYoupin" tableName="t_good_attribute" domainObjectName="GoodAttribute" enableCountByExample="false" enableUpdateByExample="false"
+                       enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+                </table>
+                <table schema="lswdYoupin" tableName="t_good_category" domainObjectName="GoodCategory" enableCountByExample="false" enableUpdateByExample="false"
+                                       enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+                </table>
+                <table schema="lswdYoupin" tableName="t_good_sale" domainObjectName="GoodSale" enableCountByExample="false" enableUpdateByExample="false"
+                       enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+                </table>
+                <table schema="lswdYoupin" tableName="t_good" domainObjectName="Good" enableCountByExample="false" enableUpdateByExample="false"
+                       enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+                </table>
+                <table schema="lswdYoupin" tableName="t_goodrecord" domainObjectName="GoodRecord" enableCountByExample="false" enableUpdateByExample="false"
+                       enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+                </table>
+                <table schema="lswdYoupin" tableName="t_institution" domainObjectName="Institution" enableCountByExample="false" enableUpdateByExample="false"
+                       enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+                </table>
+                <table schema="lswdYoupin" tableName="t_rate" domainObjectName="Rate" enableCountByExample="false" enableUpdateByExample="false"
+                       enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+                </table>
+
+                <table schema="lswdYoupin" tableName="t_supplier" domainObjectName="Supplier" enableCountByExample="false" enableUpdateByExample="false"
+                       enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+                </table>-->
+
+		<!--<table schema="lswdYoupin" tableName="t_rate" domainObjectName="Rate" enableCountByExample="false" enableUpdateByExample="false"
+			   enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+		</table>-->
+
+		<!--<table schema="lswdYoupin" tableName="t_recipe_seckill" domainObjectName="RecipeSecKill" enableCountByExample="false" enableUpdateByExample="false"
+			   enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+		</table>-->
+		<!--<table schema="lswdYoupin" tableName="t_good_details_img" domainObjectName="GoodDetailsImg" enableCountByExample="false" enableUpdateByExample="false"
+			   enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+		</table>-->
+		<!--<table schema="lswdYoupin" tableName="t_recipe_details_img" domainObjectName="RecipeDetailsImg" enableCountByExample="false" enableUpdateByExample="false"
+			   enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+		</table>-->
+		<!--<table schema="lswdYoupin" tableName="dh_count_user" domainObjectName="CounterUser" enableCountByExample="false" enableUpdateByExample="false"-->
+		<!--enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">-->
+		<!--</table>-->
+		<!--<table schema="lswdYoupin" tableName="dh_member_card" domainObjectName="MemberCard" enableCountByExample="false" enableUpdateByExample="false"-->
+		<!--enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">-->
+		<!--</table>-->
+		<!--<table schema="lswdYoupin" tableName="dh_mealrecord" domainObjectName="MealRecord" enableCountByExample="false" enableUpdateByExample="false"-->
+		<!--enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">-->
+		<!--</table>-->
+		<!--<table schema="lswdYoupin" tableName="dh_mealmenu" domainObjectName="MealMenu" enableCountByExample="false" enableUpdateByExample="false"-->
+		<!--enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">-->
+		<!--</table>-->
+		<!--<table schema="lswdYoupin" tableName="dh_member_type" domainObjectName="MemberType" enableCountByExample="false" enableUpdateByExample="false"-->
+		<!--enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">-->
+		<!--</table>-->
+		<!--<table schema="lswdYoupin" tableName="dh_members" domainObjectName="Members" enableCountByExample="false" enableUpdateByExample="false"-->
+		<!--enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">-->
+		<!--</table>-->
+		<!--<table schema="lswdYoupin" tableName="dh_counter_order_items" domainObjectName="CounterOrderItems" enableCountByExample="false" enableUpdateByExample="false"-->
+		<!--enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">-->
+		<!--</table>-->
+		<!--<table schema="lswdYoupin" tableName="dh_counter_order" domainObjectName="CounterOrder" enableCountByExample="false" enableUpdateByExample="false"-->
+		<!--enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">-->
+		<!--</table>-->
+		<!--<table schema="lswdYoupin" tableName="dh_js_platform" domainObjectName="JSPlatform" enableCountByExample="false" enableUpdateByExample="false"
+			   enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+		</table>-->
+		<!--	<table schema="lswdYoupin" tableName="y_machine" domainObjectName="Machine" enableCountByExample="false" enableUpdateByExample="false"
+                   enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+            </table>
+            <table schema="lswdYoupin" tableName="y_machine_canteen" domainObjectName="MachineCanteen" enableCountByExample="false" enableUpdateByExample="false"
+                   enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+            </table>-->
+
+
+		<!--<table schema="lswdYoupin" tableName="dh_menutype" domainObjectName="MenuType" enableCountByExample="false" enableUpdateByExample="false"-->
+		<!--enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">-->
+		<!--</table>-->
+
+		<!--<table schema="lswdYoupin" tableName="dh_counter_type" domainObjectName="CounterType" enableCountByExample="false" enableUpdateByExample="false"-->
+		<!--enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">-->
+		<!--</table>-->
+
+		<!--<table schema="lswdYoupin" tableName="dh_counter_type_recipe_category" domainObjectName="CounterTypeRecipeCategory" enableCountByExample="false" enableUpdateByExample="false"-->
+		<!--enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">-->
+		<!--</table>-->
+
+		<!--<table schema="lswdYoupin" tableName="dh_disk_label" domainObjectName="DiskLabel" enableCountByExample="false" enableUpdateByExample="false"-->
+		<!--enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">-->
+		<!--</table>-->
+
+	</context>
+</generatorConfiguration>

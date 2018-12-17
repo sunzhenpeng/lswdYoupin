@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/">
+
+    <appender name="file" class="org.apache.log4j.RollingFileAppender">
+        <param name="File" value="/usr/local/tomcat_source/apache-tomcat-7.0.67/logs/ctserp.log" />
+        <param name="Append" value="false" />
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="%d [%t] %-5p: %l - %m%n" />
+        </layout>
+    </appender>
+
+    <appender name="console" class="org.apache.log4j.ConsoleAppender">
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="%d [%t] %-5p: %l - %m%n" />
+        </layout>
+    </appender>
+
+    <logger name="com.cts" additivity="false">
+        <level value="DEBUG" />
+        <appender-ref ref="console" />
+        <appender-ref ref="file" />
+    </logger>
+
+    <logger name="com.xinglv" additivity="false">
+        <level value="DEBUG" />
+        <appender-ref ref="console" />
+        <appender-ref ref="file" />
+    </logger>
+
+    <logger name="org.springframework" additivity="false">
+        <level value="INFO" />
+        <appender-ref ref="console" />
+        <appender-ref ref="file" />
+    </logger>
+
+    <logger name="org.hibernate.SQL" additivity="false">
+        <level value="INFO" />
+        <appender-ref ref="console" />
+    </logger>
+
+    <logger name="org.hibernate.type" additivity="false">
+        <level value="INFO" />
+        <appender-ref ref="console" />
+    </logger>
+
+    <!-- 下面是打印mybatis语句的配置-->
+    <logger name="com.ibatis" additivity="true">
+        <level value="DEBUG" />
+    </logger>
+    <logger name="Java.sql.Connection" additivity="true">
+        <level value="DEBUG" />
+    </logger>
+    <logger name="java.sql.Statement" additivity="true">
+        <level value="DEBUG" />
+    </logger>
+    <logger name="java.sql.PreparedStatement" additivity="true">
+        <level value="DEBUG" />
+    </logger>
+    <logger name="java.sql.ResultSet" additivity="true">
+        <level value="DEBUG" />
+    </logger>
+
+    <root>
+        <level value="INFO" />
+        <appender-ref ref="console" />
+    </root>
+</log4j:configuration>

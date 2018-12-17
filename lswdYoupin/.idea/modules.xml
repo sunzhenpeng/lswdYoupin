@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lswd-commons/lswd-commons.iml" filepath="$PROJECT_DIR$/lswd-commons/lswd-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lswd-dao/lswd-dao.iml" filepath="$PROJECT_DIR$/lswd-dao/lswd-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lswd-model/lswd-model.iml" filepath="$PROJECT_DIR$/lswd-model/lswd-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lswd-service/lswd-service.iml" filepath="$PROJECT_DIR$/lswd-service/lswd-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lswd-web/lswd-web.iml" filepath="$PROJECT_DIR$/lswd-web/lswd-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lswd-weixin/lswd-weixin.iml" filepath="$PROJECT_DIR$/lswd-weixin/lswd-weixin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lswdYoupin.iml" filepath="$PROJECT_DIR$/lswdYoupin.iml" />
+    </modules>
+  </component>
+</project>

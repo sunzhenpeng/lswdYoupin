@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lswd-commons" />
+        <module name="lswd-dao" />
+        <module name="lswd-model" />
+        <module name="lswd-service" />
+        <module name="lswd-web" />
+        <module name="lswd-weixin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lswd-commons" target="1.8" />
+      <module name="lswd-dao" target="1.8" />
+      <module name="lswd-model" target="1.8" />
+      <module name="lswd-service" target="1.8" />
+      <module name="lswd-web" target="1.8" />
+      <module name="lswd-weixin" target="1.8" />
+      <module name="lswdYoupin" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

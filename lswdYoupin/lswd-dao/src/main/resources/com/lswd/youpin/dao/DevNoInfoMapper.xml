@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.lswd.youpin.dao.DevNoInfoMapper">
+    <resultMap id="BaseResultMap" type="com.lswd.youpin.model.DevNoInfo">
+        <id column="DevNo" jdbcType="VARCHAR" property="DevNo" />
+        <result column="DevType" jdbcType="VARCHAR" property="DevType" />
+        <result column="NetAddress" jdbcType="VARCHAR" property="NetAddress" />
+        <result column="NetNo" jdbcType="INTEGER" property="NetNo" />
+        <result column="Note" jdbcType="VARCHAR" property="Note" />
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        DevNo, DevType, NetAddress, NetNo, Note
+    </sql>
+
+    <select id="getDevNoInfoAll"  resultType="com.lswd.youpin.model.DevNoInfo">
+        SELECT <include refid="Base_Column_List" /> FROM DevNoInfo
+    </select>
+
+</mapper>

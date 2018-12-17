@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.lswd.youpin.dao.lsyp.GoodCategoryMapper">
+  <resultMap id="BaseResultMap" type="com.lswd.youpin.model.lsyp.GoodCategory">
+    <id column="id" jdbcType="INTEGER" property="id" />
+    <result column="name" jdbcType="VARCHAR" property="name" />
+    <result column="canteen_id" jdbcType="VARCHAR" property="canteenId" />
+    <result column="level" jdbcType="SMALLINT" property="level" />
+    <result column="parent_id" jdbcType="INTEGER" property="parentId" />
+    <result column="description" jdbcType="VARCHAR" property="description" />
+    <result column="create_user" jdbcType="VARCHAR" property="createUser" />
+    <result column="create_time" jdbcType="TIMESTAMP" property="createTime" />
+    <result column="update_time" jdbcType="TIMESTAMP" property="updateTime" />
+    <result column="update_user" jdbcType="VARCHAR" property="updateUser" />
+    <result column="safetyone" jdbcType="VARCHAR" property="safetyone" />
+    <result column="safetytwo" jdbcType="VARCHAR" property="safetytwo" />
+  </resultMap>
+  <sql id="Base_Column_List">
+    id, `name`,canteen_id, `level`, parent_id, description, create_user,create_time,update_time, update_user, safetyone, safetytwo
+  </sql>
+  <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
+    select id,`name`  from t_good_category  where id = #{id,jdbcType=INTEGER}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
+    delete from t_good_category  where id = #{id,jdbcType=INTEGER}
+  </delete>
+  <insert id="insert" parameterType="com.lswd.youpin.model.lsyp.GoodCategory">
+    insert into t_good_category (id, `name`,canteen_id, `level`,
+      parent_id, description, create_time,create_user,update_time,
+      update_user, safetyone, safetytwo)
+    values (#{id,jdbcType=INTEGER}, #{name,jdbcType=VARCHAR},#{canteenId,jdbcType=VARCHAR}, #{level,jdbcType=SMALLINT},
+      #{parentId,jdbcType=INTEGER}, #{description,jdbcType=VARCHAR},#{createTime,jdbcType=TIMESTAMP},
+      #{createUser,jdbcType=VARCHAR}, #{updateTime,jdbcType=TIMESTAMP},
+      #{updateUser,jdbcType=VARCHAR}, #{safetyone,jdbcType=VARCHAR}, #{safetytwo,jdbcType=VARCHAR})
+  </insert>
+  <insert id="insertSelective" parameterType="com.lswd.youpin.model.lsyp.GoodCategory">
+    insert into t_good_category
+    <trim prefix="(" suffix=")" suffixOverrides=",">
+      <if test="id != null">
+        id,
+      </if>
+      <if test="name != null">
+        `name`,
+      </if>
+      <if test="canteenId != null">
+        canteen_id,
+      </if>
+      <if test="level != null">
+        `level`,
+      </if>
+      <if test="parentId != null">
+        parent_id,
+      </if>
+      <if test="description != null">
+        description,
+      </if>
+      <if test="createTime != null">
+        create_time,
+      </if>
+      <if test="createUser != null">
+        create_user,
+      </if>
+      <if test="updateTime != null">
+        update_time,
+      </if>
+      <if test="updateUser != null">
+        update_user,
+      </if>
+      <if test="safetyone != null">
+        safetyone,
+      </if>
+      <if test="safetytwo != null">
+        safetytwo,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides=",">
+      <if test="id != null">
+        #{id,jdbcType=INTEGER},
+      </if>
+      <if test="name != null">
+        #{name,jdbcType=VARCHAR},
+      </if>
+      <if test="canteenId != null">
+        #{canteenId,jdbcType=VARCHAR},
+      </if>
+      <if test="level != null">
+        #{level,jdbcType=SMALLINT},
+      </if>
+      <if test="parentId != null">
+        #{parentId,jdbcType=INTEGER},
+      </if>
+      <if test="description != null">
+        #{description,jdbcType=VARCHAR},
+      </if>
+      <if test="createTime != null">
+        #{createTime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="createUser != null">
+        #{createUser,jdbcType=VARCHAR},
+      </if>
+      <if test="updateTime != null">
+        #{updateTime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="updateUser != null">
+        #{updateUser,jdbcType=VARCHAR},
+      </if>
+      <if test="safetyone != null">
+        #{safetyone,jdbcType=VARCHAR},
+      </if>
+      <if test="safetytwo != null">
+        #{safetytwo,jdbcType=VARCHAR},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="com.lswd.youpin.model.lsyp.GoodCategory">
+    update t_good_category
+    <set>
+      <if test="name != null">
+        name = #{name,jdbcType=VARCHAR},
+      </if>
+      <if test="canteenId != null">
+        canteen_id = #{canteenId,jdbcType=VARCHAR},
+      </if>
+      <if test="level != null">
+        level = #{level,jdbcType=SMALLINT},
+      </if>
+      <if test="parentId != null">
+        parent_id = #{parentId,jdbcType=INTEGER},
+      </if>
+      <if test="description != null">
+        description = #{description,jdbcType=VARCHAR},
+      </if>
+      <if test="createTime != null">
+        create_time = #{createTime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="createUser != null">
+        create_user = #{createUser,jdbcType=VARCHAR},
+      </if>
+      <if test="updateTime != null">
+        update_time = #{updateTime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="updateUser != null">
+        update_user = #{updateUser,jdbcType=VARCHAR},
+      </if>
+      <if test="safetyone != null">
+        safetyone = #{safetyone,jdbcType=VARCHAR},
+      </if>
+      <if test="safetytwo != null">
+        safetytwo = #{safetytwo,jdbcType=VARCHAR},
+      </if>
+    </set>
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="com.lswd.youpin.model.lsyp.GoodCategory">
+    update t_good_category
+    set `name` = #{name,jdbcType=VARCHAR},
+      canteen_id = #{canteenId,jdbcType=VARCHAR},
+      `level` = #{level,jdbcType=SMALLINT},
+      parent_id = #{parentId,jdbcType=INTEGER},
+      description = #{description,jdbcType=VARCHAR},
+      create_time = #{createTime,jdbcType=TIMESTAMP},
+      create_user = #{createUser,jdbcType=VARCHAR},
+      update_time = #{updateTime,jdbcType=TIMESTAMP},
+      update_user = #{updateUser,jdbcType=VARCHAR},
+      safetyone = #{safetyone,jdbcType=VARCHAR},
+      safetytwo = #{safetytwo,jdbcType=VARCHAR}
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+
+  <!--zhenguanqi write-->
+  <select id="getFirstGoodCategoryCount" resultType="java.lang.Integer" parameterType="java.lang.String">
+    select count(1)  from t_good_category WHERE 1=1
+    <if test="name != null">
+      and `name` = #{name}
+    </if>
+    and parent_id = 0
+  </select>
+
+  <select id="getFirstGoodCategory" resultMap="BaseResultMap">
+    select
+    <include refid="Base_Column_List" />
+    from t_good_category
+    WHERE 1=1
+    <if test=" name != null">
+      and `name` = #{name}
+    </if>
+      and parent_id = 0
+    limit #{offSet},#{pageSize}
+  </select>
+
+  <select id="getSecondGoodCategory" resultMap="BaseResultMap">
+    select
+    <include refid="Base_Column_List" />
+    from t_good_category
+    WHERE 1=1
+    <if test="name != null">
+      and `name` = #{name}
+    </if>
+    and parent_id = #{id}
+  </select>
+
+  <select id="getGoodCategoryListAll" resultMap="BaseResultMap">
+    select id,`name`  from t_good_category  WHERE canteen_id = #{canteenId}
+  </select>
+
+  <select id="getGoodCategoryWebCount" resultType="java.lang.Integer" parameterType="java.lang.String">
+    select count(1)  from t_good_category WHERE 1=1
+    <if test="keyword != ''">
+      and `name` LIKE concat(concat('%',#{keyword}),'%')
+    </if>
+    <if test="canteenId != ''">
+      and canteen_id = #{canteenId}
+    </if>
+  </select>
+
+  <select id="getGoodCategoryWeb" resultMap="BaseResultMap">
+    select <include refid="Base_Column_List" /> from t_good_category  WHERE 1=1
+    <if test="keyword != ''">
+      and `name` LIKE concat(concat('%',#{keyword}),'%')
+    </if>
+    <if test="canteenId != ''">
+      and canteen_id = #{canteenId}
+    </if>
+    limit #{offSet},#{pageSize}
+  </select>
+
+  <select id="checkOutName" resultMap="BaseResultMap">
+    select <include refid="Base_Column_List" /> from t_good_category  WHERE 1=1  and `name` = #{keyword}  and canteen_id = #{canteenId}
+  </select>
+
+<!-- *********************************************************************************************************************************** -->
+  <select id="getGoodCategoryListH5" resultMap="BaseResultMap">
+    select id,`name`  from t_good_category WHERE canteen_id = #{canteenId}
+  </select>
+
+</mapper>

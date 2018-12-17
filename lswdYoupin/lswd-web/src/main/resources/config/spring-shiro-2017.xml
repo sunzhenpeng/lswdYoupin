@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:mvc="http://www.springframework.org/schema/mvc" xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.1.xsd http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc.xsd http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd">
+
+    <bean id="lifecycleBeanPostProcessor" class="org.apache.shiro.spring.LifecycleBeanPostProcessor"/>
+
+
+    <bean id="securityManager" class="org.apache.shiro.web.mgt.DefaultWebSecurityManager">
+        <property name="sessionManager" ref="sessionManager"/>
+        <property name="cacheManager" ref="redisCacheManager"/>
+        <property name="realms" ref="UserDbRealm"/>
+    </bean>
+    <bean class="com.lswd.youpin.shiro.realm.UserDbRealm" id="UserDbRealm">
+        <property name="cachingEnabled" value="false"/>
+        <property name="permissionResolver" ref="permissionResolver"/>
+        <property name="credentialsMatcher" ref="hashedCredentialsMatcher"/>
+    </bean>
+    <bean id="redisCacheManager" class="com.lswd.youpin.shiro.jedis.RedisCacheManager"><!-- 自定义cacheManager -->
+        <property name="redisManager" ref="redisManager"/>
+    </bean>
+    <!--&lt;!&ndash; <bean id="redisCache" class="com.lswd.youpin.web.shiro.jedis.RedisCache">&lt;!&ndash; 自定义cacheManager &ndash;&gt;-->
+         <!--<constructor-arg ref="redisManager"></constructor-arg>-->
+     <!--</bean>&ndash;&gt;-->
+    <bean id="shiroFilter" class="org.apache.shiro.spring.web.ShiroFilterFactoryBean">
+        <property name="filters">
+            <util:map>
+                <entry key="sessionExpire" value-ref="sessionExpireFilter"></entry>
+                <entry key="resFilter" value-ref="resourceFilter"></entry>
+            </util:map>
+        </property>
+        <property name="filterChainDefinitions">
+            <value>
+                /authc/user/login=anon
+                /user/login=anon
+                /user/verifycode=anon
+                /user/updatepassword=anon
+                /token/isToken=anon
+                /weixin/login=anon
+                /associator/login=anon
+                /associator/register=anon
+                /associator/updatePassword=anon
+                /associator/isPhoneOk/**=anon
+                /pay/wxPay/getWxUserInfo/**=anon
+                /pay/wxPay/wxNotify=anon
+                /pay/wxPay/jssdk=anon
+                /pay/aliPay/notifyUrl=anon
+                /pay/aliPay/returnUrl=anon
+                /pay/wxPay/createQrcode/**=anon
+                /pay/aliPay/mobileCodePage=sessionExpire,resFilter
+                /statistics/**=sessionExpire,resFilter
+                /supplier/**=sessionExpire,resFilter
+                /user/**=sessionExpire,resFilter
+                /car/**=sessionExpire,resFilter
+                /employee/**=sessionExpire,resFilter
+                /order/**=sessionExpire,resFilter
+                /associator/**=sessionExpire,resFilter
+                /address/**=sessionExpire,resFilter
+                /canteen/**=sessionExpire,resFilter
+                /material/**=sessionExpire,resFilter
+                /weixin/**=sessionExpire,resFilter
+                /authc/**=sessionExpire,resFilter
+                /good/**=sessionExpire,resFilter
+                /goodplan/**=sessionExpire,resFilter
+                /goodOrder/**=sessionExpire,resFilter
+                /goodCategory/**=sessionExpire,resFilter
+                /recipeCategory/**=sessionExpire,resFilter
+                /recipe/**=sessionExpire,resFilter
+                /recipeplan/**=sessionExpire,resFilter
+                /recipeOrder/**=sessionExpire,resFilter
+                /upload/**=sessionExpire,resFilter
+                /supplier/**=sessionExpire,resFilter
+                /employee/**=sessionExpire,resFilter
+                /goodOrder/**=sessionExpire,resFilter
+                /pay/**=sessionExpire,resFilter
+                /goodCategory/**=sessionExpire,resFilter
+                /recipeCategory/**=sessionExpire,resFilter
+                /institution/**=sessionExpire,resFilter
+                /tenant/**=sessionExpire,resFilter
+                /goodCategory/**=sessionExpire,resFilter
+                /recipeCategory/**=sessionExpire,resFilter
+                /card/**=sessionExpire,resFilter
+                /account/**=sessionExpire,resFilter
+                /evaluate/**=sessionExpire,resFilter
+                /unit/**=sessionExpire,resFilter
+                /role/**=sessionExpire,resFilter
+                /region/**=sessionExpire,resFilter
+            </value>
+        </property>
+        <property name="securityManager" ref="securityManager"/>
+    </bean>
+    <bean id="sessionExpireFilter" class="com.lswd.youpin.shiro.filter.SessionExpireFilter"/>
+    <bean id="resourceFilter" class="com.lswd.youpin.shiro.filter.ResourceFilter">
+        <property name="errorUrl" value="/unAuthorization"/>
+        <property name="successUrl" value="/unAuthorization"/>
+    </bean>
+
+    <bean id="sessionManager" class="org.apache.shiro.web.session.mgt.DefaultWebSessionManager">
+        <!-- <property name="sessionDAO" ref="redisShiroSessionDAO"/>-->
+        <property name="globalSessionTimeout" value="360000"/>
+        <property name="sessionValidationInterval" value="3000000"/>
+        <property name="sessionValidationSchedulerEnabled" value="true"/>
+    </bean>
+    <!-- <bean id="redisShiroSessionDAO" class="com.lswd.youpin.web.shiro.jedis.RedisSessionDAO">
+         <property name="redisManager" ref="redisManager"/>
+     </bean>-->
+    <bean id="redisManager" class="com.lswd.youpin.shiro.jedis.RedisManager" init-method="init"></bean>
+    <bean id="hashedCredentialsMatcher"
+          class="org.apache.shiro.authc.credential.HashedCredentialsMatcher">
+        <property name="hashAlgorithmName" value="MD5"/>
+        <property name="storedCredentialsHexEncoded" value="true"/>
+        <property name="hashIterations" value="1"/>
+    </bean>
+    <!-- 自定义一个权限匹配器 -->
+    <bean id="permissionResolver" class="com.lswd.youpin.shiro.permission.UrlPermissionResolver"/>
+
+</beans>
